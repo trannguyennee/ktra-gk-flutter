@@ -1,8 +1,2 @@
-# API .NET
-ktra_api/bin/
-ktra_api/obj/
-ktra_api/.vs/
-*.user
-
 # File sao lưu database có ảnh và dữ liệu thật
 *.bak

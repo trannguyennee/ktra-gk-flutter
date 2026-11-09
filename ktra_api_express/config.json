@@ -1,0 +1,5 @@
+{
+  "server": "localhost",
+  "database": "KtraFlutter",
+  "port": 5000
+}
